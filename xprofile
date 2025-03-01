@@ -1,6 +1,0 @@
-xrandr --output HDMI-0 --mode 1920x1080 & 
-slstatus & 
-picom & 
-blueman-applet &
-nitrogen --restore & 
-sxhkd & 
